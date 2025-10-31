@@ -82,7 +82,7 @@ The cp command is used to copy files or directories including their content o an
 - Copy the contents of a file to a new file in the same directory - `cp filename1.txt filename2.txt`
 - Copy an entire directory by passing the R flag - `cp -R /home/username/Documents /home/username/Documents_backup`
 
-![cp](./images/10.cp.png)
+![cp](./images/10.copy.png)
 
 ## Mv Command
 
@@ -101,7 +101,7 @@ The rm command is used to delete a file and directory as well
 - Delete a file - `rm filename.txt`
 - Delete multiple files at once - `rm filename1.txt filename2.txt filename3.txt`
 
-![rm](./images/12.rm.png)
+![rm](./images/12.remove.png)
 
 ## touch Command
 
